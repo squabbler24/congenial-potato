@@ -1,1 +1,2 @@
-this is git. this is something new
+rhis is git. this is something new
+rhis is git. this is something new.this is third line
